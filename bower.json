@@ -1,0 +1,26 @@
+{
+  "name": "kalman",
+  "version": "0.0.1",
+  "authors": [
+    "Itamar Weiss"
+  ],
+  "description": "Kalman filter for Javascript.",
+  "main": "kalman.js",
+  "keywords": [
+    "kalman",
+    "filter"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/itamarwe/kalman",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sylvester": "0.1.3"
+  }
+}
